@@ -6,9 +6,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Locoyoccim&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Locoyoccim&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Locoyoccim&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Locoyoccim&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
